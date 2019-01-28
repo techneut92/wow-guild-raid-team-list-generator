@@ -3,8 +3,8 @@ This little script generates a list of raid-able people in your wow guild.
 
 <h2>depency</h2>
 
-```
-  python 3<br>
+```python
+  python 3
   sudo pip install requests
 ```
 
