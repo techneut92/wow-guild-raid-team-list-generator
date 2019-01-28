@@ -1,5 +1,8 @@
 # wow-guild-raid-team-list-generator
-This little script generates a list of raid-able people in your wow guild.
+This little script generates a list of raid-able people with their progression on set raid and their item levels in your wow guild.
+Output is shown directly in console aswell as saved to a file. 
+
+To start using this script first edit the top variables to your liking.
 
 <h2>depency</h2>
 
